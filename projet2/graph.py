@@ -11,7 +11,7 @@ from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = np.array(Image.open("laser_PINHOLE_532n.bmp"))
+img = np.array(Image.open("data/FORANGE_IRIS_1.bmp"))
 
 profil = np.mean(img, axis=0)
 
