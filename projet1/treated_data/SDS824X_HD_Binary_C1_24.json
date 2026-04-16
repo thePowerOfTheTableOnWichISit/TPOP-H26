@@ -1,0 +1,159 @@
+{
+    "delta_results": [
+        {
+            "pulse_index": 0,
+            "start_delta_ms": 2.749100000000004e-05,
+            "end_delta_ms": 1.527300000000011e-05,
+            "distance1": 8247.300000000012,
+            "distance2": 8247.300000000012,
+            "mean_distance": 8247.300000000012
+        },
+        {
+            "pulse_index": 1,
+            "start_delta_ms": 0.00010409600000000014,
+            "end_delta_ms": 2.823100000000009e-05,
+            "distance1": 31228.80000000004,
+            "distance2": 31228.80000000004,
+            "mean_distance": 31228.80000000004
+        },
+        {
+            "pulse_index": 2,
+            "start_delta_ms": 2.0760000000010284e-06,
+            "end_delta_ms": 0.0004330690000000012,
+            "distance1": 622.8000000003085,
+            "distance2": 622.8000000003085,
+            "mean_distance": 622.8000000003085
+        },
+        {
+            "pulse_index": 3,
+            "start_delta_ms": 2.964500000000002e-05,
+            "end_delta_ms": 1.8073000000000394e-05,
+            "distance1": 8893.500000000005,
+            "distance2": 8893.500000000005,
+            "mean_distance": 8893.500000000005
+        },
+        {
+            "pulse_index": 4,
+            "start_delta_ms": 4.2841000000001794e-05,
+            "end_delta_ms": 1.1209000000001607e-05,
+            "distance1": 12852.300000000538,
+            "distance2": 12852.300000000538,
+            "mean_distance": 12852.300000000538
+        },
+        {
+            "pulse_index": 5,
+            "start_delta_ms": 3.428100000000059e-05,
+            "end_delta_ms": 3.403100000000034e-05,
+            "distance1": 10284.300000000178,
+            "distance2": 10284.300000000178,
+            "mean_distance": 10284.300000000178
+        },
+        {
+            "pulse_index": 6,
+            "start_delta_ms": 2.946399999999988e-05,
+            "end_delta_ms": 4.2538000000001686e-05,
+            "distance1": 8839.199999999964,
+            "distance2": 8839.199999999964,
+            "mean_distance": 8839.199999999964
+        },
+        {
+            "pulse_index": 7,
+            "start_delta_ms": 1.8691000000001234e-05,
+            "end_delta_ms": 4.3295999999998225e-05,
+            "distance1": 5607.30000000037,
+            "distance2": 5607.30000000037,
+            "mean_distance": 5607.30000000037
+        },
+        {
+            "pulse_index": 8,
+            "start_delta_ms": 2.169199999999677e-05,
+            "end_delta_ms": 7.304199999999886e-05,
+            "distance1": 6507.599999999031,
+            "distance2": 6507.599999999031,
+            "mean_distance": 6507.599999999031
+        },
+        {
+            "pulse_index": 9,
+            "start_delta_ms": 5.225000000000021e-05,
+            "end_delta_ms": 3.3992999999996054e-05,
+            "distance1": 15675.000000000064,
+            "distance2": 15675.000000000064,
+            "mean_distance": 15675.000000000064
+        },
+        {
+            "pulse_index": 10,
+            "start_delta_ms": 7.6190000000003755e-06,
+            "end_delta_ms": 1.170999999999811e-05,
+            "distance1": 2285.7000000001126,
+            "distance2": 2285.7000000001126,
+            "mean_distance": 2285.7000000001126
+        },
+        {
+            "pulse_index": 11,
+            "start_delta_ms": 2.976499999999757e-05,
+            "end_delta_ms": 4.8663999999996876e-05,
+            "distance1": 8929.49999999927,
+            "distance2": 8929.49999999927,
+            "mean_distance": 8929.49999999927
+        },
+        {
+            "pulse_index": 12,
+            "start_delta_ms": 5.432400000000143e-05,
+            "end_delta_ms": 2.9714999999999603e-05,
+            "distance1": 16297.200000000428,
+            "distance2": 16297.200000000428,
+            "mean_distance": 16297.200000000428
+        },
+        {
+            "pulse_index": 13,
+            "start_delta_ms": 0.00012146099999999632,
+            "end_delta_ms": 1.887799999999995e-05,
+            "distance1": 36438.2999999989,
+            "distance2": 36438.2999999989,
+            "mean_distance": 36438.2999999989
+        },
+        {
+            "pulse_index": 14,
+            "start_delta_ms": 4.693399999999848e-05,
+            "end_delta_ms": 2.0699999999512775e-07,
+            "distance1": 14080.199999999542,
+            "distance2": 14080.199999999542,
+            "mean_distance": 14080.199999999542
+        },
+        {
+            "pulse_index": 15,
+            "start_delta_ms": 0.00010081900000000199,
+            "end_delta_ms": 1.1730000000001461e-06,
+            "distance1": 30245.700000000597,
+            "distance2": 30245.700000000597,
+            "mean_distance": 30245.700000000597
+        },
+        {
+            "pulse_index": 16,
+            "start_delta_ms": 8.812300000000245e-05,
+            "end_delta_ms": 1.3211999999998558e-05,
+            "distance1": 26436.900000000736,
+            "distance2": 26436.900000000736,
+            "mean_distance": 26436.900000000736
+        },
+        {
+            "pulse_index": 17,
+            "start_delta_ms": 5.626900000000462e-05,
+            "end_delta_ms": 3.4721000000001445e-05,
+            "distance1": 16880.700000001387,
+            "distance2": 16880.700000001387,
+            "mean_distance": 16880.700000001387
+        }
+    ],
+    "stats": {
+        "avg_start_delta_ms": 4.8213388888889164e-05,
+        "max_start_delta_ms": 0.00012146099999999632,
+        "min_start_delta_ms": 2.0760000000010284e-06,
+        "avg_end_delta_ms": 4.95019444444438e-05,
+        "max_end_delta_ms": 0.00012146099999999632,
+        "min_end_delta_ms": 2.0760000000010284e-06,
+        "avg_distance1": 14464.016666666748,
+        "avg_distance2": 14464.016666666748,
+        "avg_distance": 14464.016666666748
+    }
+}

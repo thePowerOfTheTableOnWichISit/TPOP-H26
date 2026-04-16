@@ -1,0 +1,162 @@
+{
+    "delta_results": [
+        {
+            "pulse_index": 0,
+            "base_detecteur_start": 0.0,
+            "distance_detecteur_start": 0.0,
+            "start_delta_ms": 0.0,
+            "end_delta_ms": 0.014660000000000001,
+            "duration_diff_ms": 0.014660000000000001
+        },
+        {
+            "pulse_index": 1,
+            "base_detecteur_start": 0.000444609,
+            "distance_detecteur_start": 0.000534604,
+            "start_delta_ms": 0.08999500000000005,
+            "end_delta_ms": 0.01383200000000008,
+            "duration_diff_ms": -0.07616300000000019
+        },
+        {
+            "pulse_index": 2,
+            "base_detecteur_start": 0.003171611,
+            "distance_detecteur_start": 0.003255897,
+            "start_delta_ms": 0.08428599999999982,
+            "end_delta_ms": 0.0015559999999997798,
+            "duration_diff_ms": -0.08273000000000004
+        },
+        {
+            "pulse_index": 3,
+            "base_detecteur_start": 0.005901176,
+            "distance_detecteur_start": 0.005945689,
+            "start_delta_ms": 0.0445129999999995,
+            "end_delta_ms": -0.010025000000000311,
+            "duration_diff_ms": -0.05453799999999981
+        },
+        {
+            "pulse_index": 4,
+            "base_detecteur_start": 0.008628684,
+            "distance_detecteur_start": 0.008740985,
+            "start_delta_ms": 0.11230100000000041,
+            "end_delta_ms": 0.005153999999998535,
+            "duration_diff_ms": -0.10714700000000188
+        },
+        {
+            "pulse_index": 5,
+            "base_detecteur_start": 0.011356385,
+            "distance_detecteur_start": 0.011435014,
+            "start_delta_ms": 0.0786290000000002,
+            "end_delta_ms": 0.011124000000001244,
+            "duration_diff_ms": -0.06750499999999895
+        },
+        {
+            "pulse_index": 6,
+            "base_detecteur_start": 0.014084417,
+            "distance_detecteur_start": 0.014135743,
+            "start_delta_ms": 0.05132599999999911,
+            "end_delta_ms": 0.009476999999997321,
+            "duration_diff_ms": -0.04184900000000179
+        },
+        {
+            "pulse_index": 7,
+            "base_detecteur_start": 0.016812148,
+            "distance_detecteur_start": 0.016942239,
+            "start_delta_ms": 0.13009100000000232,
+            "end_delta_ms": 0.009783999999998794,
+            "duration_diff_ms": -0.12030700000000352
+        },
+        {
+            "pulse_index": 8,
+            "base_detecteur_start": 0.019539222,
+            "distance_detecteur_start": 0.019675661,
+            "start_delta_ms": 0.1364390000000021,
+            "end_delta_ms": 0.01376600000000186,
+            "duration_diff_ms": -0.12267300000000023
+        },
+        {
+            "pulse_index": 9,
+            "base_detecteur_start": 0.022268414,
+            "distance_detecteur_start": 0.022396758,
+            "start_delta_ms": 0.128343999999999,
+            "end_delta_ms": -0.12248700000000098,
+            "duration_diff_ms": -0.25083099999999997
+        },
+        {
+            "pulse_index": 10,
+            "base_detecteur_start": 0.024996439,
+            "distance_detecteur_start": 0.025192393,
+            "start_delta_ms": 0.19595400000000165,
+            "end_delta_ms": 0.015021999999999952,
+            "duration_diff_ms": -0.1809320000000017
+        },
+        {
+            "pulse_index": 11,
+            "base_detecteur_start": 0.027723917,
+            "distance_detecteur_start": 0.027766383,
+            "start_delta_ms": 0.04246599999999795,
+            "end_delta_ms": 0.006742000000000553,
+            "duration_diff_ms": -0.0357239999999974
+        },
+        {
+            "pulse_index": 12,
+            "base_detecteur_start": 0.030451825,
+            "distance_detecteur_start": 0.030603321,
+            "start_delta_ms": 0.15149600000000096,
+            "end_delta_ms": 0.023171000000002384,
+            "duration_diff_ms": -0.12832499999999858
+        },
+        {
+            "pulse_index": 13,
+            "base_detecteur_start": 0.033178964,
+            "distance_detecteur_start": 0.033294225,
+            "start_delta_ms": 0.11526099999999845,
+            "end_delta_ms": 0.014816000000000829,
+            "duration_diff_ms": -0.10044499999999762
+        },
+        {
+            "pulse_index": 14,
+            "base_detecteur_start": 0.03590742,
+            "distance_detecteur_start": 0.035997855,
+            "start_delta_ms": 0.09043499999999982,
+            "end_delta_ms": 0.004996999999999641,
+            "duration_diff_ms": -0.08543800000000018
+        },
+        {
+            "pulse_index": 15,
+            "base_detecteur_start": 0.038636362,
+            "distance_detecteur_start": 0.038688007,
+            "start_delta_ms": 0.05164500000000294,
+            "end_delta_ms": 0.015834999999998767,
+            "duration_diff_ms": -0.03581000000000417
+        },
+        {
+            "pulse_index": 16,
+            "base_detecteur_start": 0.041364194,
+            "distance_detecteur_start": 0.041460617,
+            "start_delta_ms": 0.09642299999999826,
+            "end_delta_ms": 0.015087999999996438,
+            "duration_diff_ms": -0.08133500000000182
+        },
+        {
+            "pulse_index": 17,
+            "base_detecteur_start": 0.044091084,
+            "distance_detecteur_start": 0.044254973,
+            "start_delta_ms": 0.1638890000000004,
+            "end_delta_ms": 0.008582999999999508,
+            "duration_diff_ms": -0.1553060000000009
+        },
+        {
+            "pulse_index": 18,
+            "base_detecteur_start": 0.046819271,
+            "distance_detecteur_start": 0.046969243,
+            "start_delta_ms": 0.14997199999999822,
+            "end_delta_ms": 0.018924000000003494,
+            "duration_diff_ms": -0.13104799999999472
+        }
+    ],
+    "stats": {
+        "avg_start_delta_ms": 0.10070868421052637,
+        "max_start_delta_ms": 0.19595400000000165,
+        "avg_end_delta_ms": 0.0036852105263156776,
+        "std_dev_ms": 0.04935905923046946
+    }
+}

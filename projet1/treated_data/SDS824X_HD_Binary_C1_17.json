@@ -1,0 +1,119 @@
+{
+    "delta_results": [
+        {
+            "pulse_index": 0,
+            "start_delta_ms": 3.0189999999999384e-06,
+            "end_delta_ms": 3.825499999999919e-05,
+            "distance1": 905.6999999999815,
+            "distance2": 905.6999999999815,
+            "mean_distance": 905.6999999999815
+        },
+        {
+            "pulse_index": 1,
+            "start_delta_ms": 2.7282000000000868e-05,
+            "end_delta_ms": 3.785000000000073e-05,
+            "distance1": 8184.6000000002605,
+            "distance2": 8184.6000000002605,
+            "mean_distance": 8184.6000000002605
+        },
+        {
+            "pulse_index": 2,
+            "start_delta_ms": 4.0579999999994926e-06,
+            "end_delta_ms": 4.599800000000022e-05,
+            "distance1": 1217.3999999998478,
+            "distance2": 1217.3999999998478,
+            "mean_distance": 1217.3999999998478
+        },
+        {
+            "pulse_index": 3,
+            "start_delta_ms": 1.1347000000000093e-05,
+            "end_delta_ms": 4.190100000000044e-05,
+            "distance1": 3404.100000000028,
+            "distance2": 3404.100000000028,
+            "mean_distance": 3404.100000000028
+        },
+        {
+            "pulse_index": 4,
+            "start_delta_ms": 4.258699999999671e-05,
+            "end_delta_ms": 3.5580000000000334e-05,
+            "distance1": 12776.099999999013,
+            "distance2": 12776.099999999013,
+            "mean_distance": 12776.099999999013
+        },
+        {
+            "pulse_index": 5,
+            "start_delta_ms": 2.4100000000013e-06,
+            "end_delta_ms": 5.3365999999999136e-05,
+            "distance1": 723.00000000039,
+            "distance2": 723.00000000039,
+            "mean_distance": 723.00000000039
+        },
+        {
+            "pulse_index": 6,
+            "start_delta_ms": 1.1968999999997093e-05,
+            "end_delta_ms": 5.556599999999995e-05,
+            "distance1": 3590.699999999128,
+            "distance2": 3590.699999999128,
+            "mean_distance": 3590.699999999128
+        },
+        {
+            "pulse_index": 7,
+            "start_delta_ms": 3.6009999999989106e-06,
+            "end_delta_ms": 9.545200000000281e-05,
+            "distance1": 1080.2999999996732,
+            "distance2": 1080.2999999996732,
+            "mean_distance": 1080.2999999996732
+        },
+        {
+            "pulse_index": 8,
+            "start_delta_ms": 1.4096000000005104e-05,
+            "end_delta_ms": 3.614700000000026e-05,
+            "distance1": 4228.800000001532,
+            "distance2": 4228.800000001532,
+            "mean_distance": 4228.800000001532
+        },
+        {
+            "pulse_index": 9,
+            "start_delta_ms": 6.201000000004286e-06,
+            "end_delta_ms": 5.062599999999806e-05,
+            "distance1": 1860.300000001286,
+            "distance2": 1860.300000001286,
+            "mean_distance": 1860.300000001286
+        },
+        {
+            "pulse_index": 10,
+            "start_delta_ms": 2.6947999999998862e-05,
+            "end_delta_ms": 5.937000000000303e-05,
+            "distance1": 8084.399999999659,
+            "distance2": 8084.399999999659,
+            "mean_distance": 8084.399999999659
+        },
+        {
+            "pulse_index": 11,
+            "start_delta_ms": 2.8822999999997267e-05,
+            "end_delta_ms": 4.857899999999998e-05,
+            "distance1": 8646.899999999181,
+            "distance2": 8646.899999999181,
+            "mean_distance": 8646.899999999181
+        },
+        {
+            "pulse_index": 12,
+            "start_delta_ms": 1.77400000000022e-05,
+            "end_delta_ms": 1.1090000000005262e-05,
+            "distance1": 5322.000000000659,
+            "distance2": 5322.000000000659,
+            "mean_distance": 5322.000000000659
+        }
+    ],
+    "stats": {
+        "avg_start_delta_ms": 1.5390846153846317e-05,
+        "max_start_delta_ms": 4.258699999999671e-05,
+        "min_start_delta_ms": 2.4100000000013e-06,
+        "avg_end_delta_ms": 4.690615384615457e-05,
+        "max_end_delta_ms": 4.258699999999671e-05,
+        "min_end_delta_ms": 2.4100000000013e-06,
+        "avg_distance1": 4617.253846153895,
+        "avg_distance2": 4617.253846153895,
+        "avg_distance": 4617.253846153895
+    }
+}

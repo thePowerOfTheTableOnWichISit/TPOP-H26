@@ -1,0 +1,162 @@
+{
+    "delta_results": [
+        {
+            "pulse_index": 0,
+            "base_detecteur_start": 0.0,
+            "distance_detecteur_start": 0.0,
+            "start_delta_ms": 0.0,
+            "end_delta_ms": 0.045939999999999995,
+            "duration_diff_ms": 0.045939999999999995
+        },
+        {
+            "pulse_index": 1,
+            "base_detecteur_start": 0.000445648,
+            "distance_detecteur_start": 0.000463025,
+            "start_delta_ms": 0.017377000000000007,
+            "end_delta_ms": 0.0426939999999998,
+            "duration_diff_ms": 0.025316999999999527
+        },
+        {
+            "pulse_index": 2,
+            "base_detecteur_start": 0.003173338,
+            "distance_detecteur_start": 0.003181635,
+            "start_delta_ms": 0.008296999999999992,
+            "end_delta_ms": 0.04237499999999988,
+            "duration_diff_ms": 0.034077999999999886
+        },
+        {
+            "pulse_index": 3,
+            "base_detecteur_start": 0.005901425,
+            "distance_detecteur_start": 0.005932702,
+            "start_delta_ms": 0.031276999999999694,
+            "end_delta_ms": 0.03697000000000075,
+            "duration_diff_ms": 0.005693000000001058
+        },
+        {
+            "pulse_index": 4,
+            "base_detecteur_start": 0.008629667,
+            "distance_detecteur_start": 0.008643446,
+            "start_delta_ms": 0.013779000000000222,
+            "end_delta_ms": 0.04344199999999944,
+            "duration_diff_ms": 0.029662999999999218
+        },
+        {
+            "pulse_index": 5,
+            "base_detecteur_start": 0.011356615,
+            "distance_detecteur_start": 0.011371086,
+            "start_delta_ms": 0.014471000000000275,
+            "end_delta_ms": 0.034855999999999776,
+            "duration_diff_ms": 0.0203849999999995
+        },
+        {
+            "pulse_index": 6,
+            "base_detecteur_start": 0.014084657,
+            "distance_detecteur_start": 0.014093224,
+            "start_delta_ms": 0.008566999999999256,
+            "end_delta_ms": 0.04149200000000061,
+            "duration_diff_ms": 0.032925000000001356
+        },
+        {
+            "pulse_index": 7,
+            "base_detecteur_start": 0.016813406,
+            "distance_detecteur_start": 0.016828892,
+            "start_delta_ms": 0.015486000000002054,
+            "end_delta_ms": 0.04293500000000089,
+            "duration_diff_ms": 0.027448999999998835
+        },
+        {
+            "pulse_index": 8,
+            "base_detecteur_start": 0.019541082,
+            "distance_detecteur_start": 0.019561174,
+            "start_delta_ms": 0.020091999999999333,
+            "end_delta_ms": 0.051815000000000194,
+            "duration_diff_ms": 0.03172300000000086
+        },
+        {
+            "pulse_index": 9,
+            "base_detecteur_start": 0.022269147,
+            "distance_detecteur_start": 0.02230728,
+            "start_delta_ms": 0.03813299999999922,
+            "end_delta_ms": 0.05525400000000111,
+            "duration_diff_ms": 0.017121000000001885
+        },
+        {
+            "pulse_index": 10,
+            "base_detecteur_start": 0.024996398,
+            "distance_detecteur_start": 0.025014382,
+            "start_delta_ms": 0.017984000000002137,
+            "end_delta_ms": 0.04861399999999891,
+            "duration_diff_ms": 0.03062999999999677
+        },
+        {
+            "pulse_index": 11,
+            "base_detecteur_start": 0.027724856,
+            "distance_detecteur_start": 0.027748976,
+            "start_delta_ms": 0.024120000000002473,
+            "end_delta_ms": 0.0312280000000012,
+            "duration_diff_ms": 0.0071079999999987264
+        },
+        {
+            "pulse_index": 12,
+            "base_detecteur_start": 0.030452484,
+            "distance_detecteur_start": 0.030474906,
+            "start_delta_ms": 0.022422000000001108,
+            "end_delta_ms": 0.039799000000000084,
+            "duration_diff_ms": 0.017376999999998977
+        },
+        {
+            "pulse_index": 13,
+            "base_detecteur_start": 0.033180815,
+            "distance_detecteur_start": 0.033198432,
+            "start_delta_ms": 0.01761699999999755,
+            "end_delta_ms": 0.03461800000000015,
+            "duration_diff_ms": 0.017001000000002597
+        },
+        {
+            "pulse_index": 14,
+            "base_detecteur_start": 0.035909215,
+            "distance_detecteur_start": 0.035933038,
+            "start_delta_ms": 0.023822999999999206,
+            "end_delta_ms": 0.034429000000002485,
+            "duration_diff_ms": 0.01060600000000328
+        },
+        {
+            "pulse_index": 15,
+            "base_detecteur_start": 0.038636971,
+            "distance_detecteur_start": 0.0386664,
+            "start_delta_ms": 0.029428999999997485,
+            "end_delta_ms": 0.035001999999999256,
+            "duration_diff_ms": 0.005573000000001771
+        },
+        {
+            "pulse_index": 16,
+            "base_detecteur_start": 0.041365217,
+            "distance_detecteur_start": 0.041396096,
+            "start_delta_ms": 0.030878999999997547,
+            "end_delta_ms": 0.04415200000000563,
+            "duration_diff_ms": 0.013273000000008084
+        },
+        {
+            "pulse_index": 17,
+            "base_detecteur_start": 0.044092939,
+            "distance_detecteur_start": 0.044120766,
+            "start_delta_ms": 0.0278270000000011,
+            "end_delta_ms": 0.03273599999999849,
+            "duration_diff_ms": 0.004908999999997388
+        },
+        {
+            "pulse_index": 18,
+            "base_detecteur_start": 0.046820685,
+            "distance_detecteur_start": 0.046844628,
+            "start_delta_ms": 0.023942999999998493,
+            "end_delta_ms": 0.04438199999999559,
+            "duration_diff_ms": 0.0204389999999971
+        }
+    ],
+    "stats": {
+        "avg_start_delta_ms": 0.020290684210526166,
+        "max_start_delta_ms": 0.03813299999999922,
+        "avg_end_delta_ms": 0.04119647368421075,
+        "std_dev_ms": 0.009279148536444343
+    }
+}

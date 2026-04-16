@@ -1,0 +1,395 @@
+{
+  "folder": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis",
+  "results": [
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_11.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.633183412083334,
+        "std": 10.648245505041784,
+        "sem": 0.0015058893208708438,
+        "snr_linear": 0.904673301110701,
+        "snr_db": -0.870164529498776,
+        "sinad_linear": 1.3484931522786954,
+        "sinad_db": 2.596974908471903
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_12.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.6322548225,
+        "std": 10.63458954803648,
+        "sem": 0.0015039580769104354,
+        "snr_linear": 0.9057476810920694,
+        "snr_db": -0.8598553835766534,
+        "sinad_linear": 1.3492141645430724,
+        "sinad_db": 2.6016178384637056
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_13.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.649014809166665,
+        "std": 10.634474520438252,
+        "sem": 0.0015039418095514892,
+        "snr_linear": 0.9073334832503811,
+        "snr_db": -0.8446612418931938,
+        "sinad_linear": 1.3502792488323554,
+        "sinad_db": 2.608471868946725
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_14.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.672990748541668,
+        "std": 10.601580798488515,
+        "sem": 0.0014992899347816644,
+        "snr_linear": 0.9124102275314228,
+        "snr_db": -0.7961971041294892,
+        "sinad_linear": 1.3536958385486535,
+        "sinad_db": 2.6304218766563947
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_15.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.740755511666668,
+        "std": 10.560393279365979,
+        "sem": 0.0014934651399673054,
+        "snr_linear": 0.9223856776905452,
+        "snr_db": -0.7017489830497854,
+        "sinad_linear": 1.3604393916704436,
+        "sinad_db": 2.673583969733364
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_17.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -10.899351014583333,
+        "std": 9.33115055756267,
+        "sem": 0.0013196239671050397,
+        "snr_linear": 1.1680607817167492,
+        "snr_db": 1.3493088500030546,
+        "sinad_linear": 1.5376495016045573,
+        "sinad_db": 3.737147036141504
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_20.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.791212753541668,
+        "std": 10.436718913274142,
+        "sem": 0.0014759749433828082,
+        "snr_linear": 0.9381504699804194,
+        "snr_db": -0.554549990599913,
+        "sinad_linear": 1.3711769777546885,
+        "sinad_db": 2.7418702555550833
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_23.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.902236022708333,
+        "std": 10.410086928629427,
+        "sem": 0.0014722086119950614,
+        "snr_linear": 0.9512154980642455,
+        "snr_db": -0.43442164825512253,
+        "sinad_linear": 1.3801488773888164,
+        "sinad_db": 2.7985187300688663
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_24.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.861123002708332,
+        "std": 10.445552382576796,
+        "sem": 0.0014772241845918703,
+        "snr_linear": 0.9440499306821444,
+        "snr_db": -0.5001007062785686,
+        "sinad_linear": 1.3752200811582713,
+        "sinad_db": 2.767444107095823
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_3.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.5067687825,
+        "std": 10.895497968966641,
+        "sem": 0.0015408560996521136,
+        "snr_linear": 0.8725410081831853,
+        "snr_db": -1.1842830533550166,
+        "sinad_linear": 1.3271502593758286,
+        "sinad_db": 2.4584019256152043
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_4.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.487237566041665,
+        "std": 10.781693944755446,
+        "sem": 0.0015247617802029028,
+        "snr_linear": 0.8799394246074436,
+        "snr_db": -1.1109444766379275,
+        "sinad_linear": 1.3320260474099141,
+        "sinad_db": 2.4902543485743673
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_7.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.573106954166667,
+        "std": 10.716120691069,
+        "sem": 0.0015154883217336724,
+        "snr_linear": 0.8933369854769422,
+        "snr_db": -0.9796937040583467,
+        "sinad_linear": 1.3409142290322043,
+        "sinad_db": 2.5480199858264467
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C1_9.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -9.595521063541668,
+        "std": 10.691513443750909,
+        "sem": 0.001512008331444681,
+        "snr_linear": 0.8974895008105855,
+        "snr_db": -0.9394124653928176,
+        "sinad_linear": 1.3436842650210779,
+        "sinad_db": 2.565944629295333
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_11.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.02121300791016653,
+        "std": 0.006044578031106094,
+        "sem": 8.548324230412699e-07,
+        "snr_linear": 3.5094274242142216,
+        "snr_db": 10.904725310578293,
+        "sinad_linear": 3.6491205578641646,
+        "sinad_db": 11.24376423221631
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_12.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.015018758211833202,
+        "std": 0.010358707216201442,
+        "sem": 1.4649424233804129e-06,
+        "snr_linear": 1.4498680094310659,
+        "snr_db": 3.2265693497353887,
+        "sinad_linear": 1.7612828406509844,
+        "sinad_db": 4.916582079827721
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_13.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.02021915626599987,
+        "std": 0.014942019059562129,
+        "sem": 2.113120600327004e-06,
+        "snr_linear": 1.353174305654539,
+        "snr_db": 2.627074854467942,
+        "sinad_linear": 1.6825815586424462,
+        "sinad_db": 4.519522493401962
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_14.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.021165779433083204,
+        "std": 0.016121925876030695,
+        "sem": 2.279984622545635e-06,
+        "snr_linear": 1.3128567638777864,
+        "snr_db": 2.3643469201015734,
+        "sinad_linear": 1.6503311432738745,
+        "sinad_db": 4.351421905699946
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_15.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.02110917117516654,
+        "std": 0.01892260461477187,
+        "sem": 2.6760604081634096e-06,
+        "snr_linear": 1.1155531495219073,
+        "snr_db": 0.9498053336198636,
+        "sinad_linear": 1.4981518045272473,
+        "sinad_db": 3.5111164345350874
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_17.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.022531416093499866,
+        "std": 0.006049757028972788,
+        "sem": 8.555648439435279e-07,
+        "snr_linear": 3.724350578972849,
+        "snr_db": 11.42101110111186,
+        "sinad_linear": 3.8562659704817297,
+        "sinad_db": 11.723339599683653
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_20.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.023641354329749866,
+        "std": 0.008599058124714494,
+        "sem": 1.216090462360579e-06,
+        "snr_linear": 2.7492957934314237,
+        "snr_db": 8.784429351575051,
+        "sinad_linear": 2.9255131788764386,
+        "sinad_db": 9.324041177291763
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_23.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.024039061842666534,
+        "std": 0.009492939193103709,
+        "sem": 1.3425043353670372e-06,
+        "snr_linear": 2.5323096834044905,
+        "snr_db": 8.070336314185626,
+        "sinad_linear": 2.7226076347252373,
+        "sinad_db": 8.699701160609255
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_24.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": -0.023825271154333204,
+        "std": 0.0106510934647743,
+        "sem": 1.5062920831987254e-06,
+        "snr_linear": 2.2368849952475816,
+        "snr_db": 6.992873126606009,
+        "sinad_linear": 2.4502355972362677,
+        "sinad_db": 7.784156900844865
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_3.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": 0.2014757424126052,
+        "std": 0.03075060401216849,
+        "sem": 4.348792124517319e-06,
+        "snr_linear": 2.551927966451591,
+        "snr_db": 16.32738228071099,
+        "sinad_linear": 6.627802054796936,
+        "sinad_db": 16.42739058700051
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_4.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": 0.1458938778017719,
+        "std": 0.0056449772975619705,
+        "sem": 7.983203453500362e-07,
+        "snr_linear": 3.844900716391283,
+        "snr_db": 28.24749736315121,
+        "sinad_linear": 25.86423965710422,
+        "sinad_db": 28.253994315580435
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_7.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": 0.08110951021716681,
+        "std": 0.059601716982328065,
+        "sem": 8.428955649713118e-06,
+        "snr_linear": 1.3608586182377231,
+        "snr_db": 2.6762601600750937,
+        "sinad_linear": 1.68876765093126,
+        "sinad_db": 4.551398025643762
+      }
+    },
+    {
+      "file": "D:\\uni\\TPOP---Projet-1\\data\\jour 5\\treatus_fleubuis\\SDS824X_HD_Binary_C2_9.csv",
+      "status": "ok",
+      "error": null,
+      "stats": {
+        "n_points": 50000000,
+        "mean": 0.08797689919133346,
+        "std": 0.051920273836324644,
+        "sem": 7.342635542145528e-06,
+        "snr_linear": 1.6944613864841127,
+        "snr_db": 4.580633531004688,
+        "sinad_linear": 1.9675363758481474,
+        "sinad_db": 5.878455406991434
+      }
+    }
+  ]
+}

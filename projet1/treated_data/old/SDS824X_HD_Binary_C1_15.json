@@ -1,0 +1,162 @@
+{
+    "delta_results": [
+        {
+            "pulse_index": 0,
+            "base_detecteur_start": 0.0,
+            "distance_detecteur_start": 0.0,
+            "start_delta_ms": 0.0,
+            "end_delta_ms": 2.842549,
+            "duration_diff_ms": 2.842549
+        },
+        {
+            "pulse_index": 1,
+            "base_detecteur_start": 0.000444576,
+            "distance_detecteur_start": 0.0,
+            "start_delta_ms": -0.444576,
+            "end_delta_ms": 0.11534399999999986,
+            "duration_diff_ms": 0.5599199999999998
+        },
+        {
+            "pulse_index": 2,
+            "base_detecteur_start": 0.003172746,
+            "distance_detecteur_start": 0.002912773,
+            "start_delta_ms": -0.2599730000000001,
+            "end_delta_ms": 0.13177099999999928,
+            "duration_diff_ms": 0.3917439999999994
+        },
+        {
+            "pulse_index": 3,
+            "base_detecteur_start": 0.005900753,
+            "distance_detecteur_start": 0.005854201,
+            "start_delta_ms": -0.04655200000000005,
+            "end_delta_ms": 0.38293900000000053,
+            "duration_diff_ms": 0.4294910000000006
+        },
+        {
+            "pulse_index": 4,
+            "base_detecteur_start": 0.00862897,
+            "distance_detecteur_start": 0.008608469,
+            "start_delta_ms": -0.02050099999999916,
+            "end_delta_ms": 0.291495000000001,
+            "duration_diff_ms": 0.31199600000000016
+        },
+        {
+            "pulse_index": 5,
+            "base_detecteur_start": 0.011356318,
+            "distance_detecteur_start": 0.011305249,
+            "start_delta_ms": -0.05106900000000081,
+            "end_delta_ms": 0.12225000000000083,
+            "duration_diff_ms": 0.17331900000000164
+        },
+        {
+            "pulse_index": 6,
+            "base_detecteur_start": 0.014084632,
+            "distance_detecteur_start": 0.013840305,
+            "start_delta_ms": -0.24432699999999904,
+            "end_delta_ms": 0.14994499999999855,
+            "duration_diff_ms": 0.3942719999999976
+        },
+        {
+            "pulse_index": 7,
+            "base_detecteur_start": 0.0168126,
+            "distance_detecteur_start": 0.016751034,
+            "start_delta_ms": -0.06156599999999901,
+            "end_delta_ms": 0.35079500000000097,
+            "duration_diff_ms": 0.412361
+        },
+        {
+            "pulse_index": 8,
+            "base_detecteur_start": 0.019540562,
+            "distance_detecteur_start": 0.019509643,
+            "start_delta_ms": -0.03091900000000078,
+            "end_delta_ms": 0.19803599999999866,
+            "duration_diff_ms": 0.22895499999999944
+        },
+        {
+            "pulse_index": 9,
+            "base_detecteur_start": 0.022268672,
+            "distance_detecteur_start": 0.022242179,
+            "start_delta_ms": -0.026492999999998962,
+            "end_delta_ms": 0.1350429999999979,
+            "duration_diff_ms": 0.16153599999999685
+        },
+        {
+            "pulse_index": 10,
+            "base_detecteur_start": 0.024996446,
+            "distance_detecteur_start": 0.024752981,
+            "start_delta_ms": -0.24346499999999827,
+            "end_delta_ms": 0.2395980000000006,
+            "duration_diff_ms": 0.48306299999999885
+        },
+        {
+            "pulse_index": 11,
+            "base_detecteur_start": 0.027724438,
+            "distance_detecteur_start": 0.027595089,
+            "start_delta_ms": -0.12934900000000082,
+            "end_delta_ms": 0.25229800000000147,
+            "duration_diff_ms": 0.3816470000000023
+        },
+        {
+            "pulse_index": 12,
+            "base_detecteur_start": 0.030452932,
+            "distance_detecteur_start": 0.030369437,
+            "start_delta_ms": -0.0834949999999994,
+            "end_delta_ms": 0.19532399999999672,
+            "duration_diff_ms": 0.27881899999999615
+        },
+        {
+            "pulse_index": 13,
+            "base_detecteur_start": 0.033180642,
+            "distance_detecteur_start": 0.030369437,
+            "start_delta_ms": -2.811205000000004,
+            "end_delta_ms": -2.5329570000000023,
+            "duration_diff_ms": 0.27824800000000177
+        },
+        {
+            "pulse_index": 14,
+            "base_detecteur_start": 0.035908556,
+            "distance_detecteur_start": 0.038589303,
+            "start_delta_ms": 2.680746999999997,
+            "end_delta_ms": 3.0615699999999997,
+            "duration_diff_ms": 0.38082300000000235
+        },
+        {
+            "pulse_index": 15,
+            "base_detecteur_start": 0.038636434,
+            "distance_detecteur_start": 0.038589303,
+            "start_delta_ms": -0.04713099999999887,
+            "end_delta_ms": 0.33355599999999874,
+            "duration_diff_ms": 0.3806869999999976
+        },
+        {
+            "pulse_index": 16,
+            "base_detecteur_start": 0.041364556,
+            "distance_detecteur_start": 0.041341056,
+            "start_delta_ms": -0.023499999999995747,
+            "end_delta_ms": 0.15378199999999814,
+            "duration_diff_ms": 0.1772819999999939
+        },
+        {
+            "pulse_index": 17,
+            "base_detecteur_start": 0.044092129,
+            "distance_detecteur_start": 0.044036891,
+            "start_delta_ms": -0.05523799999999912,
+            "end_delta_ms": 0.21477699999999933,
+            "duration_diff_ms": 0.27001499999999845
+        },
+        {
+            "pulse_index": 18,
+            "base_detecteur_start": 0.046820306,
+            "distance_detecteur_start": 0.046614474,
+            "start_delta_ms": -0.20583199999999607,
+            "end_delta_ms": 0.23731700000000078,
+            "duration_diff_ms": 0.44314899999999685
+        }
+    ],
+    "stats": {
+        "avg_start_delta_ms": -0.11076021052631546,
+        "max_start_delta_ms": 2.811205000000004,
+        "avg_end_delta_ms": 0.3618648421052626,
+        "std_dev_ms": 0.922645107723175
+    }
+}

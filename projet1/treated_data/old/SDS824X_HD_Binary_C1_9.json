@@ -1,0 +1,162 @@
+{
+    "delta_results": [
+        {
+            "pulse_index": 0,
+            "base_detecteur_start": 0.0,
+            "distance_detecteur_start": 0.0,
+            "start_delta_ms": 0.0,
+            "end_delta_ms": 0.011604,
+            "duration_diff_ms": 0.011604
+        },
+        {
+            "pulse_index": 1,
+            "base_detecteur_start": 0.00044407,
+            "distance_detecteur_start": 0.000553988,
+            "start_delta_ms": 0.10991800000000003,
+            "end_delta_ms": 0.007758999999999978,
+            "duration_diff_ms": -0.10215900000000011
+        },
+        {
+            "pulse_index": 2,
+            "base_detecteur_start": 0.003172073,
+            "distance_detecteur_start": 0.003763924,
+            "start_delta_ms": 0.591851,
+            "end_delta_ms": 0.018602000000000375,
+            "duration_diff_ms": -0.5732489999999997
+        },
+        {
+            "pulse_index": 3,
+            "base_detecteur_start": 0.005900406,
+            "distance_detecteur_start": 0.006001023,
+            "start_delta_ms": 0.1006169999999999,
+            "end_delta_ms": 0.016621999999999124,
+            "duration_diff_ms": -0.08399500000000076
+        },
+        {
+            "pulse_index": 4,
+            "base_detecteur_start": 0.008627842,
+            "distance_detecteur_start": 0.008785329,
+            "start_delta_ms": 0.15748699999999954,
+            "end_delta_ms": 0.006258000000000305,
+            "duration_diff_ms": -0.15122899999999925
+        },
+        {
+            "pulse_index": 5,
+            "base_detecteur_start": 0.011355794,
+            "distance_detecteur_start": 0.011471883,
+            "start_delta_ms": 0.11608899999999978,
+            "end_delta_ms": 0.012212000000001028,
+            "duration_diff_ms": -0.10387699999999875
+        },
+        {
+            "pulse_index": 6,
+            "base_detecteur_start": 0.014084166,
+            "distance_detecteur_start": 0.014201437,
+            "start_delta_ms": 0.11727100000000039,
+            "end_delta_ms": 0.0007129999999994086,
+            "duration_diff_ms": -0.11655800000000098
+        },
+        {
+            "pulse_index": 7,
+            "base_detecteur_start": 0.016811326,
+            "distance_detecteur_start": 0.016899411,
+            "start_delta_ms": 0.08808499999999816,
+            "end_delta_ms": 0.009290999999998079,
+            "duration_diff_ms": -0.07879400000000009
+        },
+        {
+            "pulse_index": 8,
+            "base_detecteur_start": 0.019540358,
+            "distance_detecteur_start": 0.019865919,
+            "start_delta_ms": 0.32556099999999855,
+            "end_delta_ms": 0.009104999999998836,
+            "duration_diff_ms": -0.3164559999999997
+        },
+        {
+            "pulse_index": 9,
+            "base_detecteur_start": 0.022267821,
+            "distance_detecteur_start": 0.022395275,
+            "start_delta_ms": 0.12745399999999907,
+            "end_delta_ms": 0.010985000000001549,
+            "duration_diff_ms": -0.11646899999999752
+        },
+        {
+            "pulse_index": 10,
+            "base_detecteur_start": 0.024996397,
+            "distance_detecteur_start": 0.025129179,
+            "start_delta_ms": 0.13278200000000143,
+            "end_delta_ms": 0.010171999999999265,
+            "duration_diff_ms": -0.12261000000000216
+        },
+        {
+            "pulse_index": 11,
+            "base_detecteur_start": 0.027723516,
+            "distance_detecteur_start": 0.027821731,
+            "start_delta_ms": 0.09821499999999872,
+            "end_delta_ms": 0.006114000000001507,
+            "duration_diff_ms": -0.09210099999999721
+        },
+        {
+            "pulse_index": 12,
+            "base_detecteur_start": 0.030452114,
+            "distance_detecteur_start": 0.030646275,
+            "start_delta_ms": 0.19416100000000172,
+            "end_delta_ms": 0.008337999999996626,
+            "duration_diff_ms": -0.1858230000000051
+        },
+        {
+            "pulse_index": 13,
+            "base_detecteur_start": 0.033179339,
+            "distance_detecteur_start": 0.033573291,
+            "start_delta_ms": 0.393951999999996,
+            "end_delta_ms": 0.0013130000000027842,
+            "duration_diff_ms": -0.39263899999999324
+        },
+        {
+            "pulse_index": 14,
+            "base_detecteur_start": 0.035908279,
+            "distance_detecteur_start": 0.036232197,
+            "start_delta_ms": 0.32391799999999943,
+            "end_delta_ms": 0.00645200000000401,
+            "duration_diff_ms": -0.3174659999999954
+        },
+        {
+            "pulse_index": 15,
+            "base_detecteur_start": 0.038635431,
+            "distance_detecteur_start": 0.038794579,
+            "start_delta_ms": 0.15914800000000479,
+            "end_delta_ms": 0.01154400000000222,
+            "duration_diff_ms": -0.14760400000000257
+        },
+        {
+            "pulse_index": 16,
+            "base_detecteur_start": 0.041363612,
+            "distance_detecteur_start": 0.041548049,
+            "start_delta_ms": 0.18443699999999563,
+            "end_delta_ms": 0.007471000000001948,
+            "duration_diff_ms": -0.17696599999999368
+        },
+        {
+            "pulse_index": 17,
+            "base_detecteur_start": 0.044091241,
+            "distance_detecteur_start": 0.044250527,
+            "start_delta_ms": 0.1592859999999946,
+            "end_delta_ms": -0.08023999999999532,
+            "duration_diff_ms": -0.2395259999999899
+        },
+        {
+            "pulse_index": 18,
+            "base_detecteur_start": 0.046819668,
+            "distance_detecteur_start": 0.046989081,
+            "start_delta_ms": 0.1694130000000002,
+            "end_delta_ms": 0.012333999999995793,
+            "duration_diff_ms": -0.1570790000000044
+        }
+    ],
+    "stats": {
+        "avg_start_delta_ms": 0.18682342105263092,
+        "max_start_delta_ms": 0.591851,
+        "avg_end_delta_ms": 0.004560473684210922,
+        "std_dev_ms": 0.13537519051399952
+    }
+}
