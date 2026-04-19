@@ -6,7 +6,7 @@ import re
 
 import numpy as np
 import pandas as pd
-from klupus2 import *
+from projet1.signal_analyser_v2 import *
 
 values = [
     {"index": 3, "distance": 0.56},

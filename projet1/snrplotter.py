@@ -6,7 +6,7 @@ import sys
 
 import matplotlib.pyplot as plt
 
-from klupus2 import *
+from projet1.signal_analyser_v2 import *
 
 values = [
     {"index": 3, "distance": 0.56},
