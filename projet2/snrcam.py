@@ -272,8 +272,8 @@ def main():
     )
     args = parser.parse_args()
  
-    for f in args.files:
-        analyse(f, args.method, args.plot)
+    path = "D:\uni\TPOP-H26\projet2\data\fo_iris_NEON.bmp"
+    analyse(path, args.method, args.plot)
  
  
 if __name__ == "__main__":

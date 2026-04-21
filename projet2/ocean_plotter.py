@@ -48,7 +48,7 @@ def plot_spectrum(filepath):
  
  
 if __name__ == "__main__":
-    path = "data spectro/filtre 430/filtre430_USB4F104151__0__11-51-40-400.txt"
+    path = "D:\uni\TPOP-H26\projet2\data spectro\neon\neon_USB4F104161__0__11-46-31-085.txt"
     print(f"Usage: python plot_spectrum.py {path}")
  
     plot_spectrum(path)
